@@ -1,0 +1,18 @@
+.main-container{
+	width: 100%;
+}
+.single-row{
+	width: 100%;
+
+}
+.img-view
+{
+	margin: 0 auto;
+	width: 66%;
+	padding:10px;
+}
+.img-view img{
+	width: 100%;
+	border:2px solid #f7e662;
+	border-radius: 12px;
+}
